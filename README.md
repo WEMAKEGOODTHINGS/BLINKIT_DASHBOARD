@@ -96,12 +96,8 @@ The dashboard should be validated by checking KPI calculations against the sourc
 
 ## 👩‍💻 Author
 
-**Name:** [Your Name]
+**Name:** KANIKA SEHGAL
 
-**Course:** [Your Course Name]
+**Course:** MCA
 
-**Institution:** [Your College / University]
-
-## 📄 License
-
-Add a suitable license if you intend to distribute or reuse this project. Confirm that you have permission to share the dataset and other included files before publishing them.
+**Institution:** CHANDIGARH UNIVERSITY
